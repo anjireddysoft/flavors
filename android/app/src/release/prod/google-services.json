@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "131476266342",
+    "project_id": "flavor-prod-444bd",
+    "storage_bucket": "flavor-prod-444bd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:131476266342:android:b5ef95f54d0d089c917ca7",
+        "android_client_info": {
+          "package_name": "com.example.flavour_test.prod"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "131476266342-upsok06350f24ll91m5t4tgf89jpekaq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVtb7fXrpkhiUnbm0zo6SJjLsisKyqOfI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "131476266342-upsok06350f24ll91m5t4tgf89jpekaq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
